@@ -6,4 +6,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Composicao\" />
+    <Folder Include="Heranca\" />
+    <Folder Include="Abstracao\" />
+    <Folder Include="Encapsulamento\" />
+    <Folder Include="Comportamento\" />
+    <Folder Include="Polimorfismo\" />
+  </ItemGroup>
+
 </Project>

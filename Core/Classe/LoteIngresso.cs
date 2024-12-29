@@ -1,4 +1,4 @@
-﻿namespace Core
+﻿namespace Core.Classe
 {
     public class LoteIngresso
     {
